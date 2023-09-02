@@ -55,10 +55,10 @@ Well well, this one was hard. My math knowledge wasn't nearly so deep to underst
 Not gonna lie: this project is incredibly hard. But the statisfaction when you start to render spheres and planes and cones and so on with **your** renderer is incredible. No much to say about this one, you can check everything you need in my repositories as well!
 
 ## Aim and Ambitions
-My personal preferences are Low level programming, especially OS. Since I'm very aware that I lack all the knowledge about this, I started studying on my own Assembly language and how to interface with the hardware. It's still a long journey but I can't stop to find it interesting and fascinating!
+My personal preferences are Low level programming, especially OS. Since I'm very aware that I lack a lot of knowledge about this, I started studying on my own Assembly language and how to interface with the hardware. It's still a long journey but I can't stop to find it interesting and fascinating!
 
 - 🔭 I’m currently working on **ft_ls**: 42 project to replicate the famous ls shell command with flags!
 
-- 🌱 I’m currently learning: modern C++ by building a custon database!
+- 🌱 I’m currently learning: modern C++ by building a custom database!
 
 - 📫 How to reach me: matcip@hotmail.com
