@@ -50,7 +50,7 @@ This was without any doubt one of my most loved project, and probably the one I'
 In this project you're asked to build a bash shell with some built-in commands.
 It was the first incredibly big project, and incredibly hard. But I seriously think my Minishell works really similar to the original one. No gimmicks, no tricks. It just do what it has to do. You can find the project in my repositories
 
-# Minirt
+# MiniRT
 Well well, this one was hard. My math knowledge wasn't nearly so deep to understand linear algebra and this level of geomerty. So i had to go back studying. I bought some books about raytracing, and after many weeks of trying I slowly started to understand something about it.
 Not gonna lie: this project is incredibly hard. But the statisfaction when you start to render spheres and planes and cones and so on with **your** renderer is incredible. No much to say about this one, you can check everything you need in my repositories as well!
 
