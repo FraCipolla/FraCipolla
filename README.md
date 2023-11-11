@@ -57,8 +57,6 @@ Not gonna lie: this project is incredibly hard. But the statisfaction when you s
 # Aim and Ambitions
 My personal preferences are Low level programming, especially OS. Since I'm very aware that I lack a lot of knowledge about this, I started studying on my own Assembly language and how to interface with the hardware. It's still a long journey but I can't stop to find it interesting and fascinating!
 
-- 🔭 I’m currently working on **ft_ls**: 42 project to replicate the famous ls shell command with flags!
-
-- 🌱 I’m currently learning: modern C++ by building a custom database!
+- 🔭 I’m currently trying to improve my knowledge on C++ especially in a modern approch view. Trying as much as possible to get far from a C mentality in writing C++ code (I still love C though). Also, I'm integrating this studies with a parallel study of Unreal Engige 5 for personal projects.
 
 - 📫 How to reach me: matcip@hotmail.com
