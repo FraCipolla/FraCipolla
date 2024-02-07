@@ -27,8 +27,6 @@ We also dived into **Docker** and **Docker-compose**, **Makefile** and some basi
 Throught this journey I've learned how to:
 - C standard functions works by replicating them (and discover why/where they're unsafe)
 - How to I/O works, how to read from stdin/files and write to stdout/files, understanding what file descriptor are and how they works.
-- Virtual Machine
-- Some basic **Sorting Algorithm** given specific conditions (LIS implementation)
 - Simple 2D graphic representation throught a custom graphic library
 - Work with multiple threads/processes, and the different between them
 - Increasing my knowledge how bash works replicating its main functionality!
